@@ -1,0 +1,14 @@
+E:\Project\App\Restaurant Manager\Restaurant Manager\bin\Debug\Restaurant Manager.exe.config
+E:\Project\App\Restaurant Manager\Restaurant Manager\bin\Debug\Restaurant Manager.exe
+E:\Project\App\Restaurant Manager\Restaurant Manager\bin\Debug\Restaurant Manager.pdb
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant Manager.csprojAssemblyReference.cache
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.Properties.Resources.resources
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant Manager.csproj.GenerateResource.cache
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant Manager.csproj.CoreCompileInputs.cache
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant Manager.exe
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant Manager.pdb
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.GUI.frmLogin.resources
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.GUI.frmMain.resources
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.GUI.User_control.UC_Main_Receptionist.resources
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.GUI.User_control.UC_Main_Manager.resources
+E:\Project\App\Restaurant Manager\Restaurant Manager\obj\Debug\Restaurant_Manager.GUI.User_control.UC_Main_Table_Manager.resources
